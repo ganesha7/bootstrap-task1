@@ -1,0 +1,90 @@
+/*.header{
+	background: #2BA6CB;
+	  border-radius: 10px;
+       margin-top: 50px;
+}*/
+
+.nav ul{
+	background: #2BA6CB;
+	 border-radius: 10px;
+       margin-left: 0px;
+       padding:0px;
+    }
+
+.nav ul  :hover{
+	background-color: lightblue;
+}
+.nav li{
+
+	display: inline;
+	color: white;
+	list-style-type: none;
+	text-decoration: none;
+	 padding: 10px 15px;
+}
+
+
+.para1 h3{
+     font-size: 25px;
+     color: blue;
+     text-decoration: underline;
+     margin-left: 10px;
+	margin-top: 10px;
+}
+.para1 p{
+	margin-top: 10px;
+    margin-left: 10px;
+    line-height: 30px;
+}
+
+
+.navi h1{
+	font-size: 25px;
+	margin-top: 35px;
+}
+.navi ul{
+	line-height: 30px;
+	margin-top: 0px;
+	}
+.navi li{
+
+	list-style-type: none;
+	color: blue;
+	text-decoration: underline;
+}
+.navi ul :hover{
+	background-color: #2BA6CB;
+}
+
+.box{
+	background-color: #eee;
+    border: 1px solid lightgray;
+    margin-left: 40px;
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+.box h1{
+	font-size: 25px;
+	margin-top: 35px;
+	margin-left: 25px;
+}
+.box p{
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	line-height: 30px;
+}
+
+
+.footer{
+	  background: #2BA6CB;
+	  border-radius: 10px;
+	  margin-top: 20px;
+	   padding: 5px;
+	}
+	
+.footer p{
+	color: white;
+	text-align: center;
+}
